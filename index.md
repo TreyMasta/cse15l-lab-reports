@@ -10,7 +10,7 @@ _Italic_
 
 [Link](https://commonmark.org/help/)
 
-![Image]([https://pixabay.com/images/search/nature/](https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg))
+![Image](https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg)
 
 >Blockquote
 
