@@ -1,8 +1,8 @@
 Hello CSE 15L
 
-_Italic_
+_Italic Test_
 
-**Bold**
+**Bold Test**
 
 # Heading 1
 
@@ -14,9 +14,9 @@ _Italic_
 
 >Blockquote
 
-- List 1
-- List 2
-- List 3
+- List 5
+- List 7
+- List 9
 
 
 1. One
@@ -25,7 +25,8 @@ _Italic_
 
 ---
 
-`Inline code`
+`Inline code
+print Hello World`
 
 ```
 # code block
